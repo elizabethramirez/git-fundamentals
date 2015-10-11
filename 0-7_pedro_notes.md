@@ -1,9 +1,9 @@
 ## Useful sites:
 
-http://www.eecs.harvard.edu/~cduan/technical/git/
-http://longair.net/blog/2009/04/16/git-fetch-and-merge/
-http://book.git-scm.com/3_basic_branching_and_merging.html
-http://book.git-scm.com/4_rebasing.html
+* http://www.eecs.harvard.edu/~cduan/technical/git/
+* http://longair.net/blog/2009/04/16/git-fetch-and-merge/
+* http://book.git-scm.com/3_basic_branching_and_merging.html
+* http://book.git-scm.com/4_rebasing.html
 
 ## General commands:
 
