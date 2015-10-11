@@ -73,7 +73,7 @@ Then, tens of commits later, I realized the branch is in much better state than 
     #fast-forward master up to the merge
 
 
-# When multiple people are working on the same code and you want to pull some code:
+## When multiple people are working on the same code and you want to pull some code:
 
 This works both when someone does a pull request or when a collaborator wants to get the latest version from the main repository.  The best thing to do is to first fetch the remote branch, to do this first add the remote repository (see above), and then use
 
